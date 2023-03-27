@@ -1,14 +1,14 @@
-table {
-width: 400px;
-}
-th {text-align: left;
-background-color: grey;
-}
 
-td {background-color: lightgray;}
 
-table, th, td {
 
-    border: 1px solid black;
-    border-collapse: collapse;
-}
+
+
+
+#complex {text-align: left;} 
+    
+.t1 {width: 400px;}
+
+#t2 {background-color: grey;}
+ #t3 > td {background-color: lightgray;}
+
+ .t1, th, td {border: 5px solid black; border-collapse: collapse;}
