@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-style: italic;
+    padding: 10px;
+    
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: olive;
+    padding: 10px;
+}
+
+.hover:hover {
+    background-color: blueviolet;
+    color: azure;
+    display: block;
+    width: 200px;
+}
